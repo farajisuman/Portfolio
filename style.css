@@ -1,0 +1,52 @@
+*{margin:0;padding:0;list-style:none}
+
+body 
+{
+	font-family:arial;
+	font-size:15px;
+	background:#E5EFC5;
+	color:#666
+}
+
+.fix{overfow:hidden}
+.main{width:960px;
+margin:0 auto;
+ display:block}
+.header{margin-top:25px}
+.slider{height:250px;
+width:1500px;
+background:url(images/Sayed.jpg) no-repeat }
+.slider_text{margin-top:20px}
+.slider_text h1{}
+.slider_text h2{margin-top:170px;
+ text-align:center;
+ text-shadow: 2px -2px white;
+ background:#85FF62;
+ color:Black}
+.maincontent{margin-top:20px}
+h1 {color:blue;
+font-size:50px;
+text-align:center}
+.menu{width:250px;
+margin-right:20px;
+float:left;background:#DCB7D1;
+padding:58px}
+.menu ul{margin:0; 
+padding:0;list-style:none}
+.menu ul li{border-bottom:1px solid #ddd;
+ position:center;
+ padding:5px}
+.menu ul li a{color:#666;
+text-decoration:none}
+.menu ul li a:hover{color:black}
+.content{width:960px}
+.content h2{margin-left:310px;
+margin-bottom:15px; 
+font-weight:normal}
+.content p{margin-left:310px;
+margin-bottom:15px; 
+font-weight:normal}
+.footer{overflow:hidden; 
+margin-top:45px;padding-bottom:10px;
+background:#BBBBBB; 
+float:left; }
